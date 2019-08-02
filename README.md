@@ -393,6 +393,7 @@ You can:
 - George Zou from China 🇨🇳 ([GeorgeZou](https://github.com/georgezouq))
 - Gerasimos Maropoulos from Greece 🇬🇷 ([kataras](https://github.com/kataras))
 - Gerbi G from Guatemala 🇬🇹([gerbi](https://github.com/gerbi))
+- Gil Lopes Bueno from Brazil 🇧🇷 ([melanke](https://github.com/melanke))
 - Gilberto dos Santos Agostinho Filho from Brazil 🇧🇷 ([gilbertohasnofb](https://github.com/gilbertohasnofb))
 - Giovanni Nuño from Mexico 🇲🇽 ([gionuno](https://github.com/gionuno))
 - Gokul Swaminathan from the United States 🇺🇸 ([JavaCafe01](https://github.com/JavaCafe01))
